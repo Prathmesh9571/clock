@@ -1,0 +1,29 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: cursive;
+}
+.container{
+height: 100px;
+width: 600px;
+box-shadow: 0.5px 0.5px 20px darkcyan;
+font-size: 40px;
+background-color: transparent;
+border-radius: 20px;
+}
+#clock{
+margin-top: 20px;
+color: whitesmoke;
+text-shadow:0.5px 0.5px 5px darkred ;
+}
